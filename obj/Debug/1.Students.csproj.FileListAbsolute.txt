@@ -1,0 +1,9 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\StaticMembers\StaticMembers\obj\Debug\1.Students.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\StaticMembers\StaticMembers\obj\Debug\StaticMembers.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\StaticMembers\StaticMembers\obj\Debug\StaticMembers.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\StaticMembers\StaticMembers\bin\Debug\StaticMembers.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\StaticMembers\StaticMembers\obj\Debug\StaticMembers.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\StaticMembers\StaticMembers\obj\Debug\StaticMembers.pdb
